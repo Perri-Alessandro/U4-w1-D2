@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26822b2b-299a-4e16-9ea9-77b97a548619" name="Changes" comment="First exercise">
-      <change afterPath="$PROJECT_DIR$/src/es_3/Esercizio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es_4/Esercizio4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,7 @@
     "Application.Esercizio1.executor": "Run",
     "Application.Esercizio2.executor": "Run",
     "Application.Esercizio3.executor": "Run",
+    "Application.Esercizio4.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
